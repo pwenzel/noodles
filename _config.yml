@@ -1,0 +1,11 @@
+# Site settings
+title: Noodles
+email: paul@pwenzel.info
+description: Noodling around. Audio projects.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://noodles.pwenzel.info" # the base hostname & protocol for your site
+twitter_username: pwenzel
+github_username:  pwenzel
+
+# Build settings
+markdown: kramdown
